@@ -1,0 +1,371 @@
+{
+    "alternates": [
+        {
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Feed",
+            "type": "application/rss+xml",
+            "url": "http://test1/blog/feed/"
+        },
+        {
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Comments Feed",
+            "type": "application/rss+xml",
+            "url": "http://test1/blog/comments/feed/"
+        },
+        {
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Hello world! Comments Feed",
+            "type": "application/rss+xml",
+            "url": "http://test1/blog/2018/02/23/hello-world/feed/"
+        },
+        {
+            "text": "",
+            "type": "application/json+oembed",
+            "url": "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F"
+        },
+        {
+            "text": "",
+            "type": "text/xml+oembed",
+            "url": "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F&format=xml"
+        }
+    ],
+    "items": [
+        {
+            "properties": {
+                "author": [
+                    {
+                        "properties": {
+                            "name": [
+                                "admin"
+                            ],
+                            "url": [
+                                "http://test1/blog"
+                            ]
+                        },
+                        "type": [
+                            "h-card"
+                        ],
+                        "value": "admin"
+                    },
+                    {
+                        "properties": {
+                            "name": [
+                                "admin"
+                            ],
+                            "url": [
+                                "http://test1/blog"
+                            ]
+                        },
+                        "type": [
+                            "h-card"
+                        ],
+                        "value": "admin"
+                    },
+                    {
+                        "properties": {
+                            "name": [
+                                "admin"
+                            ],
+                            "url": [
+                                "http://test1/blog"
+                            ]
+                        },
+                        "type": [
+                            "h-card"
+                        ],
+                        "value": "admin"
+                    }
+                ],
+                "comment": [
+                    {
+                        "children": [
+                            {
+                                "properties": {
+                                    "name": [
+                                        "A WordPress Commenter"
+                                    ],
+                                    "photo": [
+                                        "http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=48&d=mm&r=g"
+                                    ],
+                                    "url": [
+                                        "https://wordpress.org/"
+                                    ]
+                                },
+                                "type": [
+                                    "h-card"
+                                ]
+                            }
+                        ],
+                        "properties": {},
+                        "type": [
+                            "h-cite"
+                        ],
+                        "value": "\n\n\n\n A WordPress Commenter \n\n\n\n\n\t\t\t\t\t\t\tFebruary 23, 2018\t\t\t\t\t\t\n\n\n\n\nHi, this is a comment.\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\nCommenter avatars come from Gravatar.\n\n\nReply to A \n\n\n"
+                    }
+                ],
+                "content": [
+                    {
+                        "html": "\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+                        "value": "\nWelcome to WordPress. This is your first post. Edit or delete it, then start writing!\n"
+                    }
+                ],
+                "name": [
+                    "Hello world!"
+                ],
+                "photo": [
+                    "http://1.gravatar.com/avatar/7a811e970877bf11f9c622d4a3b1147e?s=100&d=mm&r=g",
+                    "http://1.gravatar.com/avatar/7a811e970877bf11f9c622d4a3b1147e?s=100&d=mm&r=g"
+                ],
+                "published": [
+                    "2018-02-23T04:14:49+0000",
+                    "2018-02-23T04:14:49+0000",
+                    "2018-02-23T04:14:49+0000"
+                ]
+            },
+            "type": [
+                "h-entry"
+            ]
+        }
+    ],
+    "rel-urls": {
+        "http://gmpg.org/xfn/11": {
+            "rels": [
+                "profile"
+            ],
+            "text": ""
+        },
+        "http://independentpublisher.me": {
+            "rels": [
+                "designer"
+            ],
+            "text": "Independent Publisher",
+            "title": "Independent Publisher: A beautiful reader-focused WordPress theme, for you."
+        },
+        "http://s.w.org": {
+            "rels": [
+                "dns-prefetch"
+            ],
+            "text": ""
+        },
+        "http://test1/blog": {
+            "rels": [
+                "author"
+            ],
+            "text": "admin",
+            "title": "View all posts by admin"
+        },
+        "http://test1/blog/2018/02/23/hello-world/": {
+            "rels": [
+                "canonical",
+                "bookmark",
+                "nofollow"
+            ],
+            "text": "",
+            "title": "Hello world!"
+        },
+        "http://test1/blog/2018/02/23/hello-world/?replytocom=1#respond": {
+            "rels": [
+                "nofollow"
+            ],
+            "text": "Reply to A"
+        },
+        "http://test1/blog/2018/02/23/hello-world/feed/": {
+            "rels": [
+                "alternate"
+            ],
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Hello world! Comments Feed",
+            "type": "application/rss+xml"
+        },
+        "http://test1/blog/comments/feed/": {
+            "rels": [
+                "alternate"
+            ],
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Comments Feed",
+            "type": "application/rss+xml"
+        },
+        "http://test1/blog/feed/": {
+            "rels": [
+                "alternate"
+            ],
+            "text": "",
+            "title": "My Wordpress Blog \u00bb Feed",
+            "type": "application/rss+xml"
+        },
+        "http://test1/blog/wp-admin/admin-ajax.php?action=independent_publisher_customizer_css&ver=1.7": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-content/plugins/indieweb-post-kinds/css/kind.min.css?ver=2.7.3": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-content/plugins/indieweb/static/css/indieweb.css?ver=4.9.1": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-content/plugins/syndication-links/css/syn.min.css?ver=3.2.2": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-content/themes/independent-publisher/fonts/genericons/genericons.css?ver=3.1": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-content/themes/independent-publisher/style.css?ver=4.9.1": {
+            "media": "all",
+            "rels": [
+                "stylesheet"
+            ],
+            "text": "",
+            "type": "text/css"
+        },
+        "http://test1/blog/wp-includes/wlwmanifest.xml": {
+            "rels": [
+                "wlwmanifest"
+            ],
+            "text": "",
+            "type": "application/wlwmanifest+xml"
+        },
+        "http://test1/blog/wp-json/": {
+            "rels": [
+                "https://api.w.org/"
+            ],
+            "text": ""
+        },
+        "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F": {
+            "rels": [
+                "alternate"
+            ],
+            "text": "",
+            "type": "application/json+oembed"
+        },
+        "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F&format=xml": {
+            "rels": [
+                "alternate"
+            ],
+            "text": "",
+            "type": "text/xml+oembed"
+        },
+        "http://test1/blog/wp-json/webmention/1.0/endpoint": {
+            "rels": [
+                "webmention",
+                "http://webmention.org/"
+            ],
+            "text": ""
+        },
+        "http://test1/blog/xmlrpc.php": {
+            "rels": [
+                "pingback"
+            ],
+            "text": ""
+        },
+        "http://test1/blog/xmlrpc.php?rsd": {
+            "rels": [
+                "EditURI"
+            ],
+            "text": "",
+            "title": "RSD",
+            "type": "application/rsd+xml"
+        },
+        "http://wordpress.org/": {
+            "rels": [
+                "generator"
+            ],
+            "text": "WordPress",
+            "title": "WordPress: A free open-source publishing platform"
+        },
+        "https://wordpress.org/": {
+            "rels": [
+                "external",
+                "nofollow"
+            ],
+            "text": "A WordPress Commenter"
+        }
+    },
+    "rels": {
+        "EditURI": [
+            "http://test1/blog/xmlrpc.php?rsd"
+        ],
+        "alternate": [
+            "http://test1/blog/feed/",
+            "http://test1/blog/comments/feed/",
+            "http://test1/blog/2018/02/23/hello-world/feed/",
+            "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F",
+            "http://test1/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftest1%2Fblog%2F2018%2F02%2F23%2Fhello-world%2F&format=xml"
+        ],
+        "author": [
+            "http://test1/blog"
+        ],
+        "bookmark": [
+            "http://test1/blog/2018/02/23/hello-world/"
+        ],
+        "canonical": [
+            "http://test1/blog/2018/02/23/hello-world/"
+        ],
+        "designer": [
+            "http://independentpublisher.me"
+        ],
+        "dns-prefetch": [
+            "http://s.w.org"
+        ],
+        "external": [
+            "https://wordpress.org/"
+        ],
+        "generator": [
+            "http://wordpress.org/"
+        ],
+        "http://webmention.org/": [
+            "http://test1/blog/wp-json/webmention/1.0/endpoint"
+        ],
+        "https://api.w.org/": [
+            "http://test1/blog/wp-json/"
+        ],
+        "nofollow": [
+            "http://test1/blog/2018/02/23/hello-world/",
+            "https://wordpress.org/",
+            "http://test1/blog/2018/02/23/hello-world/?replytocom=1#respond"
+        ],
+        "pingback": [
+            "http://test1/blog/xmlrpc.php"
+        ],
+        "profile": [
+            "http://gmpg.org/xfn/11"
+        ],
+        "stylesheet": [
+            "http://test1/blog/wp-content/plugins/indieweb-post-kinds/css/kind.min.css?ver=2.7.3",
+            "http://test1/blog/wp-content/plugins/indieweb/static/css/indieweb.css?ver=4.9.1",
+            "http://test1/blog/wp-content/themes/independent-publisher/fonts/genericons/genericons.css?ver=3.1",
+            "http://test1/blog/wp-content/themes/independent-publisher/style.css?ver=4.9.1",
+            "http://test1/blog/wp-admin/admin-ajax.php?action=independent_publisher_customizer_css&ver=1.7",
+            "http://test1/blog/wp-content/plugins/syndication-links/css/syn.min.css?ver=3.2.2"
+        ],
+        "webmention": [
+            "http://test1/blog/wp-json/webmention/1.0/endpoint"
+        ],
+        "wlwmanifest": [
+            "http://test1/blog/wp-includes/wlwmanifest.xml"
+        ]
+    }
+}
